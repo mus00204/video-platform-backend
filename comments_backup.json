@@ -1,0 +1,20 @@
+{
+    "comments": [
+        {
+            "id": "c_1765154580_69361f141cc44",
+            "videoId": "vid_692e4481cf522",
+            "userId": "5ejvm2c3b",
+            "userName": "mustafa",
+            "userAvatar": "⭐",
+            "text": "dd",
+            "parentId": null,
+            "likes": 0,
+            "likedBy": [],
+            "timestamp": "2025-12-08T01:43:00+01:00",
+            "ip": "192.168.1.2"
+        }
+    ],
+    "createdAt": "2025-12-08T01:43:00+01:00",
+    "lastUpdated": "2025-12-08T01:43:06+01:00",
+    "totalComments": 1
+}
